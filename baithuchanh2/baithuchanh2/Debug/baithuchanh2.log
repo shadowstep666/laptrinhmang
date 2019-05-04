@@ -1,0 +1,7 @@
+﻿  baithuchanh2.cpp
+c:\users\admin\desktop\lap trinh mang\baithuchanh2\baithuchanh2\baithuchanh2.cpp(53): warning C4307: '+': integral constant overflow
+c:\users\admin\desktop\lap trinh mang\baithuchanh2\baithuchanh2\baithuchanh2.cpp(54): warning C4477: 'sprintf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'INT64'
+  c:\users\admin\desktop\lap trinh mang\baithuchanh2\baithuchanh2\baithuchanh2.cpp(54): note: consider using '%llu' in the format string
+  c:\users\admin\desktop\lap trinh mang\baithuchanh2\baithuchanh2\baithuchanh2.cpp(54): note: consider using '%I64u' in the format string
+  baithuchanh2.vcxproj -> C:\Users\admin\Desktop\lap trinh mang\baithuchanh2\Debug\baithuchanh2.exe
+  baithuchanh2.vcxproj -> C:\Users\admin\Desktop\lap trinh mang\baithuchanh2\Debug\baithuchanh2.pdb (Full PDB)
